@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ratalie
 - 👀 I’m interested in future of work
-- 🌱 I’m currently learning Laravel, Node.js and containers
-- 💞️ I’m looking to collaborate on health
+- 🌱 I’m currently learning Laravel, Node.js and containers, as well as how to build DAOs
+- 💞️ I’m looking to collaborate on web3
 - 📫 How to reach me @ratalie @twitter
 
 <!---
