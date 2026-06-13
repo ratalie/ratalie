@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ratalie
 - 👀 I’m interested in future of work.
-- 💞️ I’m looking to collaborate with AI.
+- 💞️ I’m looking to collaborate with, IDK.
 - 📫 How to reach me @ratalie @x, @ratalieg @instagram, https://natalie.uno
 
 <!---
